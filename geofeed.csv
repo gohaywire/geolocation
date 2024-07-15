@@ -1,10 +1,11 @@
 # RFC 8805 - Haywire - AS397449
-#prefix,country_code,region_code,city,postal
-104.251.172.0/23,US,IN,Indianapolis,46237
-2605:34C0::/32,US,IN,Indianapolis,46237
+# Contact: support@gohaywire.com
+#ip_prefix,alpha2code,region,city,postal_code
+104.251.172.0/23,US,US-IN,Indianapolis,46237
+2605:34C0::/32,US,US-IN,Indianapolis,46237
 # Third Apartments
-104.251.173.152/31,US,IN,Bloomington,47401
-104.251.173.176/31,US,IN,Bloomington,47401
-2605:34c0:4040::/44,US,IN,Bloomington,47401
+104.251.173.152/31,US,US-IN,Bloomington,47401
+104.251.173.176/31,US,US-IN,Bloomington,47401
+2605:34c0:4040::/44,US,US-IN,Bloomington,47401
 # Janus Lofts Apartments
-2605:34C0:4080::/44,US,IN,West Lafayette,47906
+2605:34C0:4080::/44,US,US-IN,West Lafayette,47906
