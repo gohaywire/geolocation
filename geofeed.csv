@@ -5,8 +5,13 @@
 2605:34C0::/32,US,US-IN,Indianapolis,46237
 # Third Apartments
 104.251.173.152/31,US,US-IN,Bloomington,47401
-104.251.173.176/31,US,US-IN,Bloomington,47401
 2605:34c0:4040::/44,US,US-IN,Bloomington,47401
 # Discovery Park
 2605:34C0:4080::/44,US,US-IN,West Lafayette,47906
 72.12.218.160/27,US,US-IN,West Lafayette,47906
+# Trace Quarter
+151.181.174.160/29,US,US-OH,Columbus,43222
+2605:34c0:5000::/44,US,US-OH,Columbus,43222
+# Towne View
+136.228.93.64/28,US,US-IN,Mooresville,46158
+2605:34c0:4c80::/44,US,US-IN,Mooresville,46158
